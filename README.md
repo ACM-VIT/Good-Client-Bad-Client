@@ -33,13 +33,7 @@ Credit score cards are a common risk control method in the financial industry. I
 Run the following command on your terminal to install are the packages related to this project
 <pre>pip install -r requirements.txt</pre>
 
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
----
+
 ## DataSet
     Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
 ---
