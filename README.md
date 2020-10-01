@@ -13,9 +13,9 @@ Help us build a Credit Card Approval System - Using Machine Learning!
   <a href="https://acmvit.in/" target="_blank">
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
-    <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
-    <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
-    <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
+ Uncomment the below line to add the license badge. Make sure the right license badge is reflected. 
+     <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> 
+     forks/stars/tech stack in the form of badges from https://shields.io/ 
 </p>
 ---
 ## Overview
@@ -80,5 +80,6 @@ Check out our [issues](https://github.com/ACM-VIT/Good-Client-Bad-Client/issues)
 ## Authors
 
 **Authors:**  [Aryan Vats](https://github.com/avats101), [Aditya Nalini](https://github.com/adinalini)
+<br>
 **Contributors:**  <a href="https://github.com/ACM-VIT/Good-Client-Bad-Client/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Good-Client-Bad-Client" /></a>
