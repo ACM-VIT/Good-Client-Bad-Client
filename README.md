@@ -13,9 +13,9 @@ Help us build a Credit Card Approval System - Using Machine Learning!
   <a href="https://acmvit.in/" target="_blank">
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. 
      <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> 
-     forks/stars/tech stack in the form of badges from https://shields.io/ 
+     https://img.shields.io/github/stars/ACM-VIT/Good-Client-Bad-Client?style=social
+     https://img.shields.io/github/forks/ACM-VIT/Good-Client-Bad-Client?style=social
 </p>
 ---
 
@@ -40,8 +40,7 @@ git merge
 ```
 ---
 ## DataSet
-
-Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
+    Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
 ---
 ## Submitting a Pull Request
 
