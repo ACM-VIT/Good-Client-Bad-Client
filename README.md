@@ -79,7 +79,7 @@ Check out our [issues](https://github.com/ACM-VIT/Good-Client-Bad-Client/issues)
 ---
 ## Authors
 
-**Authors:**  [Aryan Vats](https://github.com/avats101), [Aditya Nalini](https://github.com/adinalini)
+**Authors:**  [Aryan Vats](https://github.com/avats101), [Aditya Nalini](https://github.com/adinalini),[Varun Srinivasan](https://github.com/DEV-VarunSrinivasan)
 <br>
 **Contributors:**  <a href="https://github.com/ACM-VIT/Good-Client-Bad-Client/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Good-Client-Bad-Client" /></a>
