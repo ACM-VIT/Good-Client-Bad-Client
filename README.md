@@ -22,8 +22,8 @@ Help us build a Credit Card Approval System - Using Machine Learning!
 
 ## Overview
 
-The main motive of the project is to build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. <br>
-Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.<br>
+The main motive of the project is to build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. <br><br>
+Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.<br><br>
     In dataset,application_record.csv is the table/file that has information about all the customers regarding their socio-economic status and credit_record.csv is the file/table that has all the payment/default records for a given client.<br>
 
 
@@ -38,7 +38,7 @@ Lets get started!
  git remote add
  git fetch 
  git merge</code></pre>
-## DataSet
+## Dataset
    
    Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing).
    
@@ -85,5 +85,3 @@ Check out our [issues](https://github.com/ACM-VIT/Good-Client-Bad-Client/issues)
 
 **Authors:**  [Aryan Vats](https://github.com/avats101), [Aditya Nalini](https://github.com/adinalini),[Varun Srinivasan](https://github.com/DEV-VarunSrinivasan)
 <br>
-**Contributors:**  <a href="https://github.com/ACM-VIT/Good-Client-Bad-Client/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Good-Client-Bad-Client" /></a>
