@@ -36,7 +36,7 @@ Run the following command on your terminal to install are the packages related t
 
 ## DataSet
    
-   Link to the data set is [here.](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
+   Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing).
    
 ---
 ## Submitting a Pull Request
