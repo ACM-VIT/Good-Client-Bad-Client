@@ -35,7 +35,9 @@ Run the following command on your terminal to install are the packages related t
 
 
 ## DataSet
-   <p>Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)</p>
+   
+   Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
+   
 ---
 ## Submitting a Pull Request
 
@@ -59,7 +61,6 @@ Run the following command on your terminal to install are the packages related t
 ---
 ## Guidelines for Pull Request
 
-<!-- general guidelines here -->
   * Avoid pull requests that :
       * are automated or scripted
       * that are plagarized from someone else's branch
