@@ -18,14 +18,19 @@ Help us build a Credit Card Approval System - Using Machine Learning!
      forks/stars/tech stack in the form of badges from https://shields.io/ 
 </p>
 ---
+
 ## Overview
 
 The main motive of the project is to build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. 
 Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.
+    In dataset,application_record.csv is the table/file that has information about all the customers regarding their socio-economic status and credit_record.csv is the file/table that has all the payment/default records for a given client.
+
 
 ---
+
 ## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
+Run the following command on your terminal to install are the packages related to this project
+<pre>pip install -r requirements.txt</pre>
 
 Lets get started!
 ```console
