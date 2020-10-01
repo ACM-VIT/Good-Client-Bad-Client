@@ -34,7 +34,8 @@ Run the following command to install all the required packages for this project
 <pre>pip install -r requirements.txt</pre>
 
 Lets get started!
- <pre><code>git remote add
+ <pre><code>
+ git remote add
  git fetch 
  git merge</code></pre>
 ## DataSet
