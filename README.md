@@ -14,8 +14,9 @@ Help us build a Credit Card Approval System - Using Machine Learning!
     <img alt="made-by-acm" src="https://img.shields.io/badge/MADE%20BY-ACM%20VIT-blue?style=for-the-badge" />
   </a>
      <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> 
-     https://img.shields.io/github/stars/ACM-VIT/Good-Client-Bad-Client?style=social
-     https://img.shields.io/github/forks/ACM-VIT/Good-Client-Bad-Client?style=social
+    <img alt="stars" src="https://img.shields.io/github/stars/ACM-VIT/Good-Client-Bad-Client?style=social" /> 
+  <img alt="forks" src="https://img.shields.io/github/forks/ACM-VIT/Good-Client-Bad-Client?style=social" /> 
+    
 </p>
 ---
 
