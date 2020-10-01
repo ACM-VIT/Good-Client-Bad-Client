@@ -17,7 +17,26 @@ Help us build a Credit Card Approval System - Using Machine Learning!
     <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
     <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
 </p>
+---
+## Overview
 
+The main motive of the project is to build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. 
+Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk.
+
+---
+## Usage
+<!-- How To, Features, Installation etc. as subheadings in this section. example-->
+
+Lets get started!
+```console
+git remote add
+git fetch
+git merge
+```
+---
+## DataSet
+
+Link to the data set is [here](https://drive.google.com/drive/folders/1ltq08WdYxd-r9wnY60o78VBgN5FlMcKk?usp=sharing)
 ---
 ## Submitting a Pull Request
 
@@ -56,24 +75,10 @@ Help us build a Credit Card Approval System - Using Machine Learning!
 
 Check out our [issues](https://github.com/ACM-VIT/Good-Client-Bad-Client/issues) and try to solve them !
   
----
-## Overview
-
-The overview starts here. Random text about the project, motive, how, what, why etc.
-
----
-## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
-
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
 
 ---
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+**Authors:**  [Aryan Vats](https://github.com/avats101), [Aditya Nalini](https://github.com/adinalini)
+**Contributors:**  <a href="https://github.com/ACM-VIT/Good-Client-Bad-Client/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Good-Client-Bad-Client" /></a>
