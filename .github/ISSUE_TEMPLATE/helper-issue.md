@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Task**
-<em>Describe the task here</em>
+Describe the task here
 
 **Function to Implement**
-<em>Write function name, if any</em>
+Write function name, if any
