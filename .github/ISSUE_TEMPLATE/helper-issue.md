@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-**Helper Function**
-Describe a helper function here
+**Task**
+Describe the task here
 
-def func_name:
+**Function to Implement**
+Write function name, if any
